@@ -1,0 +1,223 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body {
+    background-image:url("https://img.freepik.com/free-vector/abstract-background-consisting-colorful-arcs-illustration_456031-149.jpg?w=740&t=st=1679151171~exp=1679151771~hmac=804c360e2a614aa083596c5262a2f13650b43bef94150d4491574550a7241b77");
+    Text-align:left;
+    background-size:cover;
+    background-position: center;
+}
+.fullbody{
+    width:360px;
+    Height:500px;
+ background:none;
+}
+.box1 {
+width: 360px;
+ height: 30px;
+ background:#000000c3;
+ border-radius: 20px;
+ border-style:ridge;
+ }
+ #t{
+     margin-left:20px;
+     
+ }
+#a{
+    Font-size:26px;
+       color:#ffffff;
+       Font-family:"Courier New", Courier, monospace;
+       Display:inline-flex;
+     
+}
+.box2{
+width: 360px;
+ height: 30px;
+    background:#000000c3;
+    Border-style:ridge;
+    border-radius: 20px;
+ 
+}
+#b{
+    Font-size:26px;
+       color:#ffffff ;
+       Display:inline-flex;
+       Font-family:"Courier New", Courier, monospace;
+}
+.box3{
+width: 360px;
+ height: 30px;
+    background:#000000c3;  
+    Border-style:ridge;
+    Font-family:"Courier New", Courier, monospace;
+    border-radius:20px;
+}
+#c{
+    Font-size:23px;
+       color:#ffffff ;
+       Display:inline-flex;
+       Font-family:"Courier New", Courier, monospace;
+}
+
+.box4{
+width: 360px;
+ height: 30px;
+    background:#000000c3;  
+    Border-style:ridge;
+    Font-family:"Courier New", Courier, monospace;
+    border-radius:20px;
+   
+}
+#d{
+    Font-size:23px;
+       color:#ffffff ;
+       Display:inline-flex;
+       Font-family:"Courier New", Courier, monospace;
+}
+
+.box5{
+width: 360px;
+ height: 30px;
+    background:#000000c3;  
+    Border-style:ridge;
+    Font-family:"Courier New", Courier, monospace;
+    border-radius:20px;
+}
+#e{
+    Font-size:23px;
+     color:#ffffff ;
+     Display:inline-flex;
+       Font-family:"Courier New", Courier, monospace;
+}
+
+.box6{
+width: 360px;
+ height: 30px;
+    background:#000000c3;  
+    Border-style:ridge;
+
+    border-radius:20px;
+}
+#f{
+    Font-size:23px;
+     color:#ffffff ;
+     Display:inline-flex;
+       Font-family:"Courier New", Courier, monospace;
+}
+.box7{
+width: 360px;
+ height: 30px;
+    background:#000000c3;  
+    Border-style:ridge;
+    Font-family:"Courier New", Courier, monospace;
+    border-radius:20px;
+}
+#g{
+    Font-size:23px;
+     color:#ffffff ;
+     Display:inline-flex;
+       Font-family:"Courier New", Courier, monospace;
+}
+.box8{
+width: 360px;
+ height: 30px;
+    background:#000000c3;  
+    Border-style:ridge;
+    Font-family:"Courier New", Courier, monospace;
+    border-radius:20px;
+}
+#h{
+    Font-size:23px;
+     color:#ffffff ;
+     Display:inline-flex;
+       Font-family:"Courier New", Courier, monospace;
+}
+.box9{
+width: 360px;
+ height: 30px;
+    background:#000000c3;  
+    Border-style:ridge;
+    Font-family:"Courier New", Courier, monospace;
+    border-radius:20px;
+}
+#i{
+    Font-size:23px;
+     color:#ffffff ;
+     Display:inline-flex;
+       Font-family:"Courier New", Courier, monospace;
+}
+.box10{
+width: 360px;
+ height: 30px;
+    background:#000000c3;  
+    Border-style:ridge;
+    Font-family:"Courier New", Courier, monospace;
+    border-radius:20px;
+}
+#p{
+    margin-left:10px;
+}
+#j{
+    Font-size:23px;
+     color:#ffffff ;
+     Display:inline-flex;
+     Font-family:"Courier New", Courier, monospace;
+      
+}
+.box11{
+width: 360px;
+ height: 30px;
+    background:#000000c3;  
+    Border-style:ridge;
+    Font-family:"Courier New", Courier, monospace;
+    border-radius:20px;
+}
+#k{
+    Font-size:23px;
+     color:#ffffff ;
+     Display:inline-flex;
+       Font-family:"Courier New", Courier, monospace;
+}
+.box12{
+width: 360px;
+ height: 30px;
+    background:#000000c3;  
+    Border-style:ridge;
+    Font-family:"Courier New", Courier, monospace;
+    border-radius:20px;
+}
+#l{
+    Font-size:23px;
+     color:#ffffff ;
+     Display:inline-flex;
+       Font-family:"Courier New", Courier, monospace;
+}
+.box13{
+width: 360px;
+ height: 30px;
+    background:#000000c3;  
+    Border-style:ridge;
+    Font-family:"Courier New", Courier, monospace;
+    border-radius:20px;
+}
+#m{
+    Font-size:23px;
+     color:#ffffff ;
+     Display:inline-flex;
+       Font-family:"Courier New", Courier, monospace;
+}
+.box14{
+width: 360px;
+ height: 30px;
+    background:#000000c3;  
+    Border-style:ridge;
+    Font-family:"Courier New", Courier, monospace;
+    border-radius:20px;
+}
+#n{
+    Font-size:23px;
+     color:#ffffff ;
+     Display:inline-flex;
+       Font-family:"Courier New", Courier, monospace;
+}
